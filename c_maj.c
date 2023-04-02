@@ -6,6 +6,8 @@
 int main(){
 
     printf("hello world");
+    printf(" mais je sais pas trop pourqoui je fais ça");
+
 
     return 0;
 }
